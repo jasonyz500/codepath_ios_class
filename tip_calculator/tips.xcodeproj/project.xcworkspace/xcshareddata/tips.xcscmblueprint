@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F68579D7C5D439F4652AF0442FF4BF4BF19EB072",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F68579D7C5D439F4652AF0442FF4BF4BF19EB072" : 0,
+    "AF998506733884E2A894F260C15A1C37959E2658" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54332F3A-1D8B-4FFB-9FFC-C5D14E4D9036",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F68579D7C5D439F4652AF0442FF4BF4BF19EB072" : "tips",
+    "AF998506733884E2A894F260C15A1C37959E2658" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tips",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tips.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jasonyz500\/ios_class.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF998506733884E2A894F260C15A1C37959E2658"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jasonyz500\/ios_class_tip_calculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F68579D7C5D439F4652AF0442FF4BF4BF19EB072"
+    }
+  ]
+}
